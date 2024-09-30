@@ -1,0 +1,8 @@
+.card-list{
+  display: inline-flex;
+  padding:20px;
+}
+body{
+  max-width: 100%;
+  background-image: url('../../assets/items_bg-2.jpg')
+}
